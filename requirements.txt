@@ -1,0 +1,3 @@
+thrading
+subprocess
+Pyqt5
